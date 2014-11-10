@@ -50,7 +50,7 @@ So, the last step, we need to reverse the remaining parts, {$a[k+1], ..., a[n]$}
 
 ---
 
-The complete code is:
+The complete code is [here](permutation_sequence.cpp)
 ```c++
 class Solution {
     void swap(vector<int> &num, int i , int j){
